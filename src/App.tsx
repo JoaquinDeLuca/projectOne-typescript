@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import Logo  from './assets/react.svg'
 import { Task } from './components/interfaces/Task'
 import TaskForm from './components/TaskForm'
